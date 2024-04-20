@@ -1,9 +1,9 @@
-# sharing_slides
-This repository is using for sharing slides from many event that I'd presented...
+# Sharing Slides and Resources
+This repository is using for sharing slides and resources from many event that I'd presented with Microsoft Thailand and Third-Party organizations, such as Seven Peaks Software, Women Techmakers, GSDC, and more...
 
 ## Latest Released
 
-[Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech
+[Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/Azure-Samples/Synapse/blob/main/MachineLearning/Tutorial%20-%20Cognitive%20Service.ipynb)
 
 -----------------------------------
 
@@ -15,8 +15,8 @@ This repository is using for sharing slides from many event that I'd presented..
 
 4. [Lightning Talk: Data Visualization Work Showcase on both Python, SQL Databasem and Power BI](https://github.com/chrnthnkmutt/sharing_slides/blob/main/04_LightningTalk_DataVizJan2024.pdf)
 
-5. [Workshop - Time Series Prediction with Kusto Query Language and Azure Data Explorer](https://github.com/chrnthnkmutt/sharing_slides/blob/main/05_globalAI_timeseries.pdf) - From Global AI bootcamp 2024 At Microsoft Thailand
+5. [Workshop - Time Series Prediction with Kusto Query Language and Azure Data Explorer](https://github.com/chrnthnkmutt/sharing_slides/blob/main/05_globalAI_timeseries.pdf) - From Global AI bootcamp 2024 At Microsoft Thailand > The walkthrough/workshop instructions are based on [Be Beyond Code Website](https://bebeyondcode.vercel.app/posts/timeseries-adx1)
 
-6. [Be Productive on Contributing Student Community and Writing a Blog Using VSCode and Medium](https://github.com/chrnthnkmutt/sharing_slides/blob/main/06_StudentSummit_BlogContrb.pdf) - From Thailand Student Developer Summit at SCBx Next Tech
+6. [Be Productive on Contributing Student Community and Writing a Blog Using VSCode and Medium](https://github.com/chrnthnkmutt/sharing_slides/blob/main/06_StudentSummit_BlogContrb.pdf) - From Thailand Student Developer Summit at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/chrnthnkmutt/bebeyondcode)
 
-7. [Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech
+7. [Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/Azure-Samples/Synapse/blob/main/MachineLearning/Tutorial%20-%20Cognitive%20Service.ipynb)
