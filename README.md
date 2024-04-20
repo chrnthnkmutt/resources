@@ -20,3 +20,7 @@ This repository is using for sharing slides and resources from many event that I
 6. [Be Productive on Contributing Student Community and Writing a Blog Using VSCode and Medium](https://github.com/chrnthnkmutt/sharing_slides/blob/main/06_StudentSummit_BlogContrb.pdf) - From Thailand Student Developer Summit at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/chrnthnkmutt/bebeyondcode)
 
 7. [Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/Azure-Samples/Synapse/blob/main/MachineLearning/Tutorial%20-%20Cognitive%20Service.ipynb)
+
+-----------------------------------
+
+> Take note on something : I've lost my slide for BKK.JS #19 event at SCBx Next Tech Siam Paragon. However, it would be a good luck since I have the session recording and provide it to you by [This Link](https://www.youtube.com/watch?v=HiChHH_MhQI), thanks to CreatorsGarten.
