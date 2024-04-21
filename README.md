@@ -6,6 +6,7 @@ This repository is using for sharing slides and resources from many event that I
 [Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/Azure-Samples/Synapse/blob/main/MachineLearning/Tutorial%20-%20Cognitive%20Service.ipynb)
 
 -----------------------------------
+## List of My Talks
 
 1. [Enrich Power BI with Azure Machine Learning](https://github.com/chrnthnkmutt/sharing_slides/blob/main/01_AML_PowerBI.pdf) - From Azure Developer Day 2023 at Seven Peaks Thailand
 
