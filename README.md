@@ -3,7 +3,7 @@ This repository is using for sharing slides and resources from many event that I
 
 ## Latest Released
 
-[Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/Azure-Samples/Synapse/blob/main/MachineLearning/Tutorial%20-%20Cognitive%20Service.ipynb)
+[Build Intelligent Apps with Streamlit and Phi-3 SLM](https://github.com/chrnthnkmutt/sharing_slides/blob/main/08_Phi3_Streamlit.pdf) - From Python Developer Meetup at SCBx Text Tech > The demonstration is based on [this repository](https://github.com/chrnthnkmutt/phi3_experiment)
 
 -----------------------------------
 ## List of My Talks
@@ -21,6 +21,8 @@ This repository is using for sharing slides and resources from many event that I
 6. [Be Productive on Contributing Student Community and Writing a Blog Using VSCode and Medium](https://github.com/chrnthnkmutt/sharing_slides/blob/main/06_StudentSummit_BlogContrb.pdf) - From Thailand Student Developer Summit at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/chrnthnkmutt/bebeyondcode)
 
 7. [Build Intelligent Apps using Azure AI Services and Machine Learning with Apache Spark](https://github.com/chrnthnkmutt/sharing_slides/blob/main/07_IntelligentApp_AzureAI.pdf) - From Global Azure Day 2024 at SCBx Next Tech > The demonstration is based on [this repository](https://github.com/Azure-Samples/Synapse/blob/main/MachineLearning/Tutorial%20-%20Cognitive%20Service.ipynb)
+
+8. [Build Intelligent Apps with Streamlit and Phi-3 SLM](https://github.com/chrnthnkmutt/sharing_slides/blob/main/08_Phi3_Streamlit.pdf) - From Python Developer Meetup at SCBx Text Tech > The demonstration is based on [this repository](https://github.com/chrnthnkmutt/phi3_experiment)
 
 -----------------------------------
 
